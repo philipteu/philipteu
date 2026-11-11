@@ -16,7 +16,7 @@
   
 | Programming & Query Languages | Data Collection & Storage | Data Engineering & Processing | Data Visualization & BI | Machine Learning & Advanced Analytics | DevOps, MLOps & Collaboration |
 |---|---|---|---|---|---|
-| Python, SQL, PySpark, DAX, Power Query (M) | SQL Server, PostgreSQL, Snowflake, Azure Data Lake, Hadoop, MongoDB | Databricks, Apache Spark, Azure Data Factory, Airflow, Kafka | Power BI, Tableau, Excel | Scikit-learn, TensorFlow, PyTorch, SAS, Azure ML | GitHub, Azure DevOps, MLflow |
+|  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <br> ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) <br> ![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) | SQL Server, PostgreSQL, Snowflake, Azure Data Lake, Hadoop, MongoDB | Databricks, Apache Spark, Azure Data Factory, Airflow, Kafka | Power BI, Tableau, Excel | Scikit-learn, TensorFlow, PyTorch, SAS, Azure ML | GitHub, Azure DevOps, MLflow |
 
 
 
